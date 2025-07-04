@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions by Aman-Bam
+# 📘 Javascript LeetCode Solutions by Aman-Bam
 
 Welcome! This repository contains my personal solutions to LeetCode problems — organized by difficulty and problem number. Each solution includes clean, readable, and well-commented code.
 
